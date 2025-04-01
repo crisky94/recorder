@@ -35,7 +35,7 @@ pip install sounddevice numpy scipy
 3. Enter the number of the recording device.
 
 4. The program will record for 5 seconds and save the file as recording.wav.
-5. 
+ 
 
 ## 🔧 Additional Configuration
 
